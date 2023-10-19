@@ -1,1 +1,1 @@
-React basit zar uygulaması
+React basic dice application
